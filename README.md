@@ -44,9 +44,4 @@ Python 3.x
 
 requests library (Install via pip install requests)
 
-🚀 Possible Improvements
-Add filters (e.g., date range, language)
 
-Save results to a CSV/PDF file
-
-Implement a GUI (Tkinter/Streamlit)
